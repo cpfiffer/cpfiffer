@@ -1,6 +1,6 @@
 ### Howdy
 
-My name is Cameron Pfiffer. I'm a finance PhD student at the University of Oregon and a developer for [Turing.jl](https://github.com/TuringLang/Turing.jl). I do Bayes stuff, asset pricing, market microstructure, and random other things as needed.
+My name is Cameron Pfiffer. I'm a postdoctoral researcher at the Stanford GSB. I got my PhD in Finance at the University of Oregon. I'm occasionally a developer for [Turing.jl](https://github.com/TuringLang/Turing.jl). I do Bayes stuff, industrial organization, asset pricing, market microstructure, and random other things as needed.
 
 <!--
 **cpfiffer/cpfiffer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
